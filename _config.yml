@@ -1,0 +1,12 @@
+# Site settings
+title: "4thwave Ventures"
+email: "info@4thwaveiot.com"
+description: "4thwave is a intername software company" 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: "@4thwaveventures"
+github_username: portalco
+
+# Build settings
+markdown: kramdown
